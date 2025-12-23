@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run test script
-        run: ech0 "This will break CI"
+        run: echo "CI fixed successfully"
 
