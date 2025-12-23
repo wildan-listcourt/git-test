@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run test script
-        run: echo "Simulating CI test for Day 4"
+        run: ech0 "This will break CI"
 
